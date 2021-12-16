@@ -3,7 +3,7 @@
 # Create a Rock-Paper-Scissors game with Python and micro:bit
 
 <p align="center">
-  <a href="https://www.foteinisavvidou.codes/" target="_blank"><img src="https://img.shields.io/badge/foteinisavvidou.codes-red?style=for-the-badge" alt="Foteini Savvidou's Blog"></a>
+  <a href="https://foteinisavvidou.azurewebsites.net/" target="_blank"><img src="https://img.shields.io/badge/Foteini Savvidou's Blog-red?style=for-the-badge" alt="Foteini Savvidou's Blog"></a>
   <a href="https://www.dev.to/sfoteini" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev%2Eto&logoColor=white" alt="Dev.To"></a>
 </p>
 
@@ -21,7 +21,7 @@
 ## What You'll Build
 ### Part 1
 <p>
-  <a href="https://www.foteinisavvidou.codes/rock-paper-scissors-python-microbit-part1/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://foteinisavvidou.azurewebsites.net/rock-paper-scissors-python-microbit-part1/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="https://makecode.microbit.org/_VV1LFWRi74L5" target="_blank"><img src="https://img.shields.io/badge/Demo-yellow?style=for-the-badge" alt="Demo"></a>
   <a href="/part1/game1.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
 </p>
@@ -30,7 +30,7 @@ In the first part of the project you will build a simple Rock-Paper-Scissors gam
 
 ### Part 2
 <p>
-  <a href="https://www.foteinisavvidou.codes/rock-paper-scissors-python-microbit-part2/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://foteinisavvidou.azurewebsites.net/rock-paper-scissors-python-microbit-part2/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="https://makecode.microbit.org/_JK43WRMR7Xqz" target="_blank"><img src="https://img.shields.io/badge/Demo-yellow?style=for-the-badge" alt="Demo"></a>
   <a href="/part2/game2.py" target="_blank"><img src="https://img.shields.io/badge/Code-critical?style=for-the-badge" alt="Source code"></a>
 </p>
